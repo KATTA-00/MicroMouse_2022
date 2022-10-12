@@ -1,0 +1,19 @@
+#VRML_SIM R2021a utf8
+WorldInfo {
+  coordinateSystem "NUE"
+}
+Viewpoint {
+  orientation -0.2576320232666075 0.9071810751588152 0.3326382982478869 1.8981973584563527
+  position 0.9616517119501661 0.855903981926991 -0.45131874303429576
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  name "maze"
+  floorSize 0.64 0.64
+  floorTileSize 0.16 0.16
+  wallThickness 0.005
+  wallHeight 0.05
+}
